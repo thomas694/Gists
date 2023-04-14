@@ -1,0 +1,3 @@
+[submodule "Reddit_Scraper_Google_Sheets.gs"]
+	path = Reddit_Scraper_Google_Sheets.gs
+	url = https://gist.github.com/4be8bbcf63cba6b1b33665b6f3199743.git
