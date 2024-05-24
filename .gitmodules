@@ -4,3 +4,6 @@
 [submodule "ShowUsedSpacePerFileTypeForFolders.ps1"]
 	path = ShowUsedSpacePerFileTypeForFolders.ps1
 	url = https://gist.github.com/676f375d9698468d174633e57b80bdfd.git
+[submodule "Convert-GIF-files-to-WebP-and-WebM-format-to-save-space-when-archiving.md"]
+	path = Convert-GIF-files-to-WebP-and-WebM-format-to-save-space-when-archiving.md
+	url = https://gist.github.com/6e9823c1a143b5c90edbcc4baca3d2b6.git
