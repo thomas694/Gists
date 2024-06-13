@@ -7,3 +7,6 @@
 [submodule "Convert-GIF-files-to-WebP-and-WebM-format-to-save-space-when-archiving.md"]
 	path = Convert-GIF-files-to-WebP-and-WebM-format-to-save-space-when-archiving.md
 	url = https://gist.github.com/6e9823c1a143b5c90edbcc4baca3d2b6.git
+[submodule "correct-gif-file-extensions-in-a-folder-tree.md"]
+	path = correct-gif-file-extensions-in-a-folder-tree.md
+	url = https://gist.github.com/cee620319cade7c59a85f841e29a6648.git
