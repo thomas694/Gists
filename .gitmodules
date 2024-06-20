@@ -10,3 +10,6 @@
 [submodule "correct-gif-file-extensions-in-a-folder-tree.md"]
 	path = correct-gif-file-extensions-in-a-folder-tree.md
 	url = https://gist.github.com/cee620319cade7c59a85f841e29a6648.git
+[submodule "list-all-48-or-64-bit-pngs-in-a-folder-tree.md"]
+	path = list-all-48-or-64-bit-pngs-in-a-folder-tree.md
+	url = https://gist.github.com/2145b9b333669f8efe72b51fcbc1c8b7.git
