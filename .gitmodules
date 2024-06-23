@@ -13,3 +13,6 @@
 [submodule "list-all-48-or-64-bit-pngs-in-a-folder-tree.md"]
 	path = list-all-48-or-64-bit-pngs-in-a-folder-tree.md
 	url = https://gist.github.com/2145b9b333669f8efe72b51fcbc1c8b7.git
+[submodule "Convert-GIF-files-in-folder-tree-to-WebP-WebM-format.md"]
+	path = Convert-GIF-files-in-folder-tree-to-WebP-WebM-format.md
+	url = https://gist.github.com/40895b7e8237d6396292ff9cf04b4fa4.git
