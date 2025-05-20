@@ -16,3 +16,6 @@
 [submodule "Convert-GIF-files-in-folder-tree-to-WebP-WebM-format.md"]
 	path = Convert-GIF-files-in-folder-tree-to-WebP-WebM-format.md
 	url = https://gist.github.com/40895b7e8237d6396292ff9cf04b4fa4.git
+[submodule "Convert-PNG-files-in-folder-tree-to-JPEG-format.md"]
+	path = Convert-PNG-files-in-folder-tree-to-JPEG-format.md
+	url = https://gist.github.com/d41f7a9c6d7d4b9c227dd45302c20379.git
